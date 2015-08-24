@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\03.PrintNumbers\bin\Debug\03.PrintNumbers.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\03.PrintNumbers\obj\Debug\03.PrintNumbers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\03.PrintNumbers\obj\Debug\03.PrintNumbers.pdb

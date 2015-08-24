@@ -1,0 +1,16 @@
+Notepad++ 
+Notepad++ is a source code editor which supports several programming languages under Windows environment. It's also a lightweight replacement of Notepad. The supported languages by Notepad++ are C, C++, Java, C#, XML, HTML, PHP, JavaScript, RC file, makefile, NFO, doxygen, INI file, batch file, ASP, VB/VBS, SQL, Objective-C, CSS, Pascal, Perl, Python, Lua, Unix Shell Script, Fortran, NSIS and Flash action script. Notepad++ main features are: syntax highlighting and syntax folding, regular expression search, Unicode support, full drag-and-drop supported, Brace and Indent guideline highlighting, two edits and synchronized view of the same document, and user language define system.
+
+SublimeText
+Sublime Text is a proprietary, cross-platform text editor designed for people who spend huge amounts of time shuffling code around. A programmer's editor, Sublime Text is a third option to the long-standing "Vi or Emacs" conundrum. Going beyond the basics of syntax highlighting and code folding, Sublime offers a litany of innovative and unique features. 
+
+Eclipse
+It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. 
+
+NetBeans
+NetBeans is a software development platform written in Java. The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform, including the NetBeans integrated development environment (IDE), can be extended by third party developers.
+The NetBeans IDE is primarily intended for development in Java, but also supports other languages, in particular PHP, C/C++ and HTML5.
+NetBeans is cross-platform and runs on Microsoft Windows, Mac OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+Visual Studio
+Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.

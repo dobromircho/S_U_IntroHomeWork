@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.pdb

@@ -1,0 +1,13 @@
+Most popular programming languages are: 
+	Java  - Java is top pick as one of the most popular programming languages, used for building server-side applications to video games and mobile apps. It's also the core foundation for developing Android apps, making it a favorite of many programmers. 
+	C# and Java are object-oriented programming languages. Both C# and Java have built-in garbage collection.
+
+Python - There's a Python framework for pretty much anything, from web apps to data analysis. Python is often	heralded as the easiest programming language to learn, with its simple and straightforward syntax.		Python has risen in popularity due to Google's investment in it over the past decade (in fact, one		recent	study has shown Python to be the most commonly taught programming language in U.S. schools). Other applications built with Python include Pinterest and Instagram.
+
+C++ - A nice "in-between" language in that it is object oriented without having to be fanatical about it. It	is also low level enough to be close to hardware, but no so low level that you had to do everything manually. Because there are so many C++ compilers, you can write stuff in C++ and have it run pretty much anywhere.
+
+Ruby - Ruby (also known as Ruby on Rails) is a major supplier of web apps. Ruby is popular due to its ease of	learning (it's very straightforward) and power. Ruby knowledge is in high demand these days.
+
+JavaScript - JavaScript (which, confusingly, is not at all related to Java) is another favorite programming		language because it's so ubiquitous on the web--it's basically everywhere. JavaScript allows developers to add interactive elements to their website, and its presence is felt across the internet. At WordStream, we use a JavaScript library called JQuery to make our JavaScript work even easier.
+
+PHP - PHP (which stands for Hypertext Preprocessor) is often used in conjunction with dynamic data-heavy		websites and app development. It provides a ton of power and is the beating heart of monster sites like WordPress and Facebook. What's really cool about PHP is that it's an open-source language, so there are tons of free pre-built modules that you can grab and modify to get your ideal results. PHP is also on the easy end of the learning spectrum, simply requiring you to embed the code within HTML. PHP is a must-learn language for aspiring web developers.

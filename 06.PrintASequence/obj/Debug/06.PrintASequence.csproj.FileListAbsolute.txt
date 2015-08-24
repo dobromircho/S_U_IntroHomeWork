@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\06.PrintASequence\bin\Debug\06.PrintASequence.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\06.PrintASequence\bin\Debug\06.PrintASequence.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\06.PrintASequence\bin\Debug\06.PrintASequence.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\06.PrintASequence\obj\Debug\06.PrintASequence.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\06.PrintASequence\obj\Debug\06.PrintASequence.pdb

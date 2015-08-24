@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\02.PrintMyName\bin\Debug\02.PrintMyName.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\02.PrintMyName\obj\Debug\02.PrintMyName.pdb

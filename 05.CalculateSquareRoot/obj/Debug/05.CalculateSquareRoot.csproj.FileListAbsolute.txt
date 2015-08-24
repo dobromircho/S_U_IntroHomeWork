@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\05.CalculateSquareRoot\bin\Debug\05.CalculateSquareRoot.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\05.CalculateSquareRoot\bin\Debug\05.CalculateSquareRoot.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\05.CalculateSquareRoot\bin\Debug\05.CalculateSquareRoot.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\05.CalculateSquareRoot\obj\Debug\05.CalculateSquareRoot.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\05.CalculateSquareRoot\obj\Debug\05.CalculateSquareRoot.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\01.IntroToProgrammingHomeWork\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb

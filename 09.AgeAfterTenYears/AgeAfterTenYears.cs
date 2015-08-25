@@ -1,12 +1,14 @@
 ﻿using System;
+using System.Globalization;
 
 class AgeAfterTenYears
 {
     static void Main()
     {
-        Console.Write("Enter your birth date in format DD.MM.YYYY : "); // Ask for some data
+        Console.Write("Enter your birth date  : "); // Ask for some data
         DateTime dateTime;   // Using DateTime Class which can hold date in proper format
         bool isDate = DateTime.TryParse(Console.ReadLine(), out dateTime); // Check if entry is valid date format
+        CultureInfo.CreateSpecificCulture("bg-BG");
         if (isDate) // if it is valid then make some calculations
         {
             int years = dateTime.Year;    // Take only years from entry date as integer
